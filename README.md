@@ -25,9 +25,11 @@ Awards/ Things to earn:
 
 
 Obstacles:
+- 4 levels
 - If time runs out, you lose a life 
 - After you get 20 seconds on the first part of each level, and the time runs out and you die, you only have 10 seconds to complete it ater that. 
 - DONT FALL THROUGH THE HOLES IN THE GROUND OR YOU WILL DIE!!
+
 
 The Goal:
 - To have fun, and complete all the levels
