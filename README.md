@@ -43,6 +43,10 @@ The Goal:
 
 
 
+![Mighty Jump Cover Art](Platformer Coverart.png)
+
+
+
 
 
 
