@@ -1,6 +1,12 @@
-# Mighty-Jump
+# Mighty Jump
+
+## You will need: 
+1. Current version of python or versions 2.0 and up 
+2. Pygame must also be installed to your computer
+
 
 ![Mighty Jump Cover Art](platformercoverart.PNG)
+
 
 ## How to play the game
 
@@ -47,12 +53,3 @@ Level 2:
 1. New Levels
 2. Different Worlds
 3. 2 player
-
-
-
-
-
-
-
-
-
