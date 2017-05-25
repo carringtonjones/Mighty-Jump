@@ -1,4 +1,4 @@
-# Mighty-Jump
+# Mighty Jump
 
 ## You will need: 
 1. Current version of python or versions 2.0 and up 
