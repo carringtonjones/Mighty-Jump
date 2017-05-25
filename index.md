@@ -1,37 +1,49 @@
-## Mighty Jump
+# Mighty-Jump
 
-You can use the [editor on GitHub](https://github.com/cartras/Mighty-Jump/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Mighty Jump Cover Art](platformercoverart.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to play the game
 
-### Markdown
+Using the XBox Controller to Move in my game:
+- Left stick: run/walk
+- A button: jump
+- Start button: pause
+- P keyboard key: unpause
+- S turns on/off sounds
+- M turns on/off music
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Enemies:
+- Blue blinking monsters
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Awards/ Things to earn:
+- Earn a heart once a level is completed
+- Coins increase your score by 5
+- First aid kits give you lives
+- Band-aids give you hearts 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Obstacles:
+- 4 levels
+- If time runs out, you lose a life 
+- After you get 20 seconds on the first part of each level, and the time runs out and you die, you only have 10 seconds to complete it ater that. 
+- DONT FALL THROUGH THE HOLES IN THE GROUND OR YOU WILL DIE!!
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The Goal:
+- To have fun, and complete all the levels
 
-### Jekyll Themes
+Level 1:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cartras/Mighty-Jump/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Mighty Jump Game Play Level 1](capture1.PNG)
 
-### Support or Contact
+Level 2:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Mighty Jump Game Play Level 2](capture2.PNG)
+
+## Coming Soon!
+
+1. New Levels
+2. Different Worlds
+3. 2 player
