@@ -1,6 +1,8 @@
 # Mighty-Jump
 
-Must have current version of python or versions 2.0 and up 
+## You will need: 
+1. Current version of python or versions 2.0 and up 
+2. Pygame must also be installed to your computer 
 
 
 ![Mighty Jump Cover Art](platformercoverart.PNG)
