@@ -12,7 +12,7 @@ ZIP FILE:
 ![Mighty Jump Cover Art](platformercoverart.PNG)
 
 
-## How to play the game
+## How to play the game:
 
 Using the XBox Controller to Move in my game:
 - Left stick: run/walk
