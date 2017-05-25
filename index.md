@@ -1,6 +1,10 @@
 # Mighty-Jump
 
+Must have current version of python or versions 2.0 and up 
+
+
 ![Mighty Jump Cover Art](platformercoverart.PNG)
+
 
 ## How to play the game
 
