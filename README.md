@@ -42,7 +42,7 @@ The Goal:
 3. 2 player
 
 
-![Mighty Jump Cover Art](Platformer Coverart.png)
+![Mighty Jump Cover Art](Platformer Coverart.PNG)
 
 
 
