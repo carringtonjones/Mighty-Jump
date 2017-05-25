@@ -1,6 +1,7 @@
 # Mighty-Jump
 Carrington's Platformer game 
 
+![Mighty Jump Cover Art](platformercoverart.PNG)
 
 ## How to play the game
 
@@ -48,7 +49,6 @@ Level 2:
 
 
 
-![Mighty Jump Cover Art](platformercoverart.PNG)
 
 
 
