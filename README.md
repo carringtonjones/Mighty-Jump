@@ -32,7 +32,9 @@ Obstacles:
 The Goal:
 - To have fun, and complete all the levels
 
+Level 1:
 ![Mighty Jump Game Play Level 1](capture1.PNG)
+Level 2:
 ![Mighty Jump Game Play Level 2](capture2.PNG)
 
 ## Coming Soon!
