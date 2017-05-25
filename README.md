@@ -1,5 +1,4 @@
 # Mighty-Jump
-Carrington's Platformer game 
 
 ![Mighty Jump Cover Art](platformercoverart.PNG)
 
