@@ -6,7 +6,7 @@
 
 ### DOWNLOAD MY GAME:
 ZIP FILE:
-https://github.com/cartras/Mighty-Jump/archive/master.zip
+[Downloading Mighty Jump](https://github.com/cartras/Mighty-Jump/archive/master.zip)
 
 
 ![Mighty Jump Cover Art](platformercoverart.PNG)
