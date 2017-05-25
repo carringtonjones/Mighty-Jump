@@ -43,7 +43,7 @@ The Goal:
 
 
 
-![Mighty Jump Cover Art](Platformer Coverart.png)
+![Mighty Jump Cover Art](platformercoverart.PNG)
 
 
 
