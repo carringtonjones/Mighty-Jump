@@ -4,9 +4,10 @@
 1. Current version of python or versions 2.0 and up 
 2. Pygame must also be installed to your computer
 
+### DOWNLOAD MY GAME:
 ZIP FILE:
 https://github.com/cartras/Mighty-Jump/archive/master.zip
-### ^ DOWNLOAD MY GAME
+
 
 ![Mighty Jump Cover Art](platformercoverart.PNG)
 
