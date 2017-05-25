@@ -1,5 +1,5 @@
 # Mighty-Jump
-Platformer game 
+Carrington's Platformer game 
 
 
 ## How to play the game
