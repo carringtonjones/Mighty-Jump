@@ -903,7 +903,7 @@ class Game():
                 print("TIME IS UP!")
                 self.hero.hearts = 0
                 self.timer_ticks = 0
-                self.level.time_limit = 10
+                self.level.time_limit = 20
                 
     def calculate_offset(self):
         x = -1 * self.hero.rect.centerx + WIDTH / 2
