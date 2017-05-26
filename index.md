@@ -1,7 +1,7 @@
 # Mighty Jump
 
 ## You will need: 
-1. Current version of python or versions 2.0 and up 
+1. Version of python 3.4
 2. Pygame must also be installed to your computer
 
 ### DOWNLOAD MY GAME:
