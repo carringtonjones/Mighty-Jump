@@ -381,7 +381,7 @@ class Enemy(Entity):
                 self.rect.left = block.rect.right
                 self.reverse()
 
-        self.rect.y += self.vy # the +1 is hacky. not sure why it helps.
+        self.rect.y += self.vy + 1
         hit_list = pygame.sprite.spritecollide(self, blocks, False)
 
         for block in hit_list:
